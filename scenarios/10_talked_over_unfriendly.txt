@@ -1,0 +1,11 @@
+Context:
+Giving someone feedback on being talked over
+
+A: Thanks for taking the time for this feedback session.
+B: No problem
+A: There's something that's been bothering me that I think that you might not be aware of.
+B: Oh?
+A: Okay, so I know that this is hard, but frequently in team meetings, when I present an idea, I hear you restate it shortly after as your original idea. This makes me feel ignored and talked over.
+B: What? No, of course I don't do that.
+A: Last week at the planning meeting-
+B: How could you say that? I let everyone speak!

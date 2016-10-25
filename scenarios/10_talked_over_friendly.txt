@@ -1,0 +1,10 @@
+Context:
+Giving someone feedback on being talked over
+What do you think of the feedback recipient's response? Is it desirable? Is it realistic?
+
+A: Thanks for taking the time for this feedback session.
+B: No problem
+A: There's something that's been bothering me that I think that you might not be aware of.
+B: Oh?
+A: Okay, so I know that this is hard, but frequently in team meetings, when I present an idea, I hear you restate it shortly after as your original idea. This makes me feel ignored and talked over.
+B: Oh wow, I hadn't noticed that. Tell me more? Can you give me examples? I need to learn how to notice when I do that.

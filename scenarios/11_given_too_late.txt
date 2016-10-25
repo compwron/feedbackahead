@@ -1,0 +1,9 @@
+Context:
+Feedback given too late
+Audience: talk about what happened here, and how to prevent it from happening.
+
+A: I know you're rolling off tomorrow, but I wanted to give you some feedback-
+B: Ok
+A: I wish you'd worked more to bring out Rob in team meetings, and been more firm with Dave.
+B: Thanks for the feedback. I think that this would have been more useful earlier, before I was about to roll off.
+A: Well, I thought that you would change it.
