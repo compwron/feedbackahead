@@ -1,8 +1,8 @@
 Context:
+Recipient of feedback unexpectedly becomes aggressive
 
-
-A:
-B:
+A: Do you have any feedback for me?
+B: I think that you could explain your reasoning
 A:
 B:
 A:
