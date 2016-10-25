@@ -1,0 +1,11 @@
+Context:
+Recipient of feedback unexpectedly becomes aggressive
+Maybe we should do a few variations on aggressive feedback scenarios
+
+A: Do you have any feedback for me?
+B: Well, I think that you could explain your technical reasoning more clearly in team meetings.
+A: WHAT? Where did this come from? Have you been thinking this all along?
+B: uh
+A: THEY should listen to what I have to say! This is why the team writes the wrong code, they don't listen!
+B: er maybe we should
+A: How could you SAY this, I thought you were on MY side!

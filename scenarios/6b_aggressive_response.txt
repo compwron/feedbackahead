@@ -1,0 +1,11 @@
+Context:
+Recipient of feedback unexpectedly becomes aggressive
+Maybe we should do a few variations on aggressive feedback scenarios
+Question for the audience: have you ever seen something like this happen?
+
+A: So, since we're doing feedback...
+B: Yes?
+A: I was worried about what you said the other day, about the team meeting
+B: What do you mean? How could you say that? I thought we went over this!
+A: er
+B: This is terrible! What are you talking about? Just get over it!
