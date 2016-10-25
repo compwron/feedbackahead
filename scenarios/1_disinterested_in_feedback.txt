@@ -1,0 +1,17 @@
+Context:
+Feedback is being offered and denied. Think about what next steps by person A AND B might be.
+
+A: Hey, is this a good time? I want to give you some feedback
+B: This isn't a good time.
+A: Maybe in a few minutes or an hour?
+B: No, I'm okay.
+A: Ok...
+
+[the next day]
+
+A: Hey, do you want to get coffee?
+B: No thanks
+A: I'd like to chat. Would you like to take a walk or find a conference room or something?
+B: Not right now
+A: How about later?
+B: Please stop.

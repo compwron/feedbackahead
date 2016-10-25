@@ -1,0 +1,8 @@
+Context:
+Not interested in working
+How does one give this feedback? Need more phrasing ideas.
+
+A: Do you have any feedback for me?
+B: Yes. My perception is that you spend a lot of time in the team room on activities that don't generate code or story points, like checking facebook, getting snacks, reading news, and starting conversations about non-work topics. I would prefer if you do less of that.
+A: Are you calling me unproductive?
+B: I think that our team could get more points if you spent less time doing these things.
