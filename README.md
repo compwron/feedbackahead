@@ -4,7 +4,7 @@ These scenarios are specifically aimed at software consultants in an agile envir
 
 ### Workshop:
 
-- Two participants each read one role of an excercise out loud
+- Two participants each read one role of an exercise out loud
 - The facilitator takes commentary from the audience and participants about how they think that each character felt about the portrayed interaction
 - One of the participants swaps with an audience member
 - Perform a new exercise and repeat the audience participation step.
