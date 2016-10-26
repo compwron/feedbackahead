@@ -1,0 +1,9 @@
+Context:
+Feedback is replied to with denial
+
+A: I was thinking that it would be good when you're leading a meeting to try to encourage our quieter teammates like Dara to speak more often.
+B: No, we don't need to do that. They contribute when they want to contribute.
+A: I really think that there are times when they want to talk but aren't sure how to break in.
+B: No, I've talked to them and they're okay.
+A: I heard from Dara and also Prakash recently that our team conversations are dominated by a few people and it's hard to interject their thoughts.
+B: I'm sure that Prakash is fine.
