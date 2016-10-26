@@ -1,0 +1,11 @@
+Context:
+Debate about feedback content
+
+A: I have some feedback about this morning-
+B: Shoot
+A: I'm worried that, when you discussed our rolloff dates in standup, the client developers were surprised.
+B: No they weren't.
+A: Bob said "That's a surprise"
+B: No, that was about something else.
+A: I think that they hadn't known that we would be rolling off, and it worries them.
+B: No, they knew and they were fine with it.

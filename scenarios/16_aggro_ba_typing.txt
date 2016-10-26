@@ -1,0 +1,8 @@
+Context:
+
+A: You need to decide what kind of BA you're going to be.
+B: I'm sorry?
+A: Are you going to be a teambuilding BA? A technical BA? A fun personality BA?
+B: I didn't know that there were types? I can do them all?
+A: I think you need to think about this.
+B: Where is this coming from?

@@ -1,0 +1,14 @@
+Context:
+Giving feedback across a language barrier
+Note all the idioms that might not make sense to someone who knows english as a second language
+
+A: Hey Shaun, I'd like to give you some feedback.
+B: Ok
+A: We need to hit this project out of the park straight off the bat, and my ballpark figures for velocity don't look good.
+B: What?
+A: We need to rock the house for this client engagement, and I'm worried about your optics with the client.
+B: Could you speak more slowly?
+A: I think that so far you've been kinda out in left field, and I thought that we should touch base.
+B: Could you say that again in different words?
+A: The client is wavering about striking a deal with us. You can't afford to leave them ambivalent.
+B: What?
