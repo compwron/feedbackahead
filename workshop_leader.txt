@@ -1,4 +1,4 @@
-Longer scenarios are easier to play (in general, 3-4 lines is too short; 15 is too long. Line length also mattters: 4 lines of multiple-sentence scenarios can be 'just right')
+Longer scenarios are easier to play (in general, 3-4 lines is too short; 15 is too long. Line length also matters: 4 lines of multiple-sentence scenarios can be 'just right')
 
 Discussion probably needs to be timeboxed
 
@@ -6,7 +6,7 @@ More context for scenarios is good
 
 Fishbowl format is great: trade out one person every scenario
 
-Some scenarios are too long or have too complex language
+Some scenarios are too long or have language that is too complex
 
 Perhaps discuss "the prime directive", "feedback guidelines" or "desired outcomes of feedback" even among experienced groups
 
