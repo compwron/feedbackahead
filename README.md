@@ -1,6 +1,6 @@
 ## Scenarios for a feedback workshop
 
-These scenarios are specifically aimed at software developers doing pair programming in an agile environment, but they might be generalizable beyond that context.
+These scenarios are specifically aimed at software consultants in an agile environment, but they might be generalizable beyond that context.
 
 ### Workshop:
 
@@ -14,5 +14,7 @@ These workshop materials are intended to create good discussions, not to recomme
 
 ## For TWers:
 
-https://thoughtworks.jiveon.com/docs/DOC-16502
+See a similar workshop https://thoughtworks.jiveon.com/docs/DOC-16502 https://github.com/compwron/pairing-failnarios
+
+Please feel free to contact me via email or github issue or pull request with scenarios, scenario ideas, typo fixes, etc.
 
