@@ -1,0 +1,13 @@
+Context:
+The recipient of feedback just says "OK" and you can't tell what they're thinking
+
+A: Can I give you some feedback?
+B: Ok
+A: I'm worried that you sometimes don't pay attention in meetings.
+B: Ok.
+A: I think that you could have better optics by not checking facebook on your phone.
+B: Ok
+A: What do you think?
+B: Ok
+A: Are you hearing what I'm saying?
+B: Yeah, ok.
