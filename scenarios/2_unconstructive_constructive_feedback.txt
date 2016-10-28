@@ -3,7 +3,7 @@ Person A tries to give feedback and does it in a non-constructive manner. Talk a
 
 A: Hey I have some feedback for you. Is now a good time?
 B: Sure, here and now is fine
-A: Ok so I'm worried about some of the things you've said latelely
+A: Ok so I'm worried about some of the things you've said lately
 B: Wow. Can you be more specific about that?
 A: I don't really remember any of them
 B: Well, what were they about?

@@ -1,0 +1,10 @@
+Context:
+inappropriate feedback - hurtful, subjective
+
+A: Hey, I have some feedback for you, do you have a minute?
+B: Sure
+A: I'm worried that you're not doing well on this team. You don't seem up to this.
+B: Can you elaborate and maybe explain some more?
+A: I've noticed lately that you ...
+B: Well do you have any specific examples or maybe advice for how I could work on this?
+A: Hmm... Not really, I just wanted to give you that feedback.
