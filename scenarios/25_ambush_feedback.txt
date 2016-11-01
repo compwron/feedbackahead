@@ -1,0 +1,8 @@
+Context:
+Being ambushed with feedback
+
+A: Hey come into this room right now
+B: What? Now isn't a good time-
+A: Everything is terrible! You need to fix this!
+B: I have to go, can we talk later?
+A: No, we need to talk now!

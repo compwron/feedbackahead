@@ -2,7 +2,7 @@ Context:
 Not interested in working
 
 A: Do you have any feedback for me?
-B: Yes. My perception is that you spend a lot of time in the team room on activities that don't generate code or story points, like checking facebook, getting snacks, and starting conversations about non-work topics. I would prefer if you do less of that.
-A: Are you calling me unproductive?
-B: I'm concerned about this pattern of behavior
+B: You facebook too much in the team room.
+A: I mean, not that much
+B: I think that it would look better to the client if you weren't obviously on facebook in the team room.
 A: I guess I can tone it down.
