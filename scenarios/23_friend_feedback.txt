@@ -1,14 +1,14 @@
 Context:
 Giving coworkerly feedback to a friend or someone you're close to
 
-A: Hey friend, so- I have some feeback for you.
+A: Hey friend, so- I have some feedback for you.
 B: We've known each other forever. Tell me.
 A: Well, I think that the way you handled the conversation with Andy the other day was really aggressive.
 B: Yeah... it was.
 A: It wasn't good.
 B: No, it wasn't.
 A: Why did it happen?
-B: He suuuuper got on my nerves, I guess.
+B: He got on my nerves, I guess.
 A: You need to not do that.
 B: Yeah, I need to not do that. I'll work on it. See you at the show on Saturday?
 A: Totally.

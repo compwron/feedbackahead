@@ -7,5 +7,5 @@ B: Well, I think that you could explain your technical reasoning more clearly in
 A: WHAT? Where did this come from? Have you been thinking this all along?
 B: uh
 A: THEY should listen to what I have to say! This is why the team writes the wrong code, they don't listen!
-B: er maybe we should
+B: er maybe we should stop now and talk tomorrow
 A: How could you SAY this, I thought you were on MY side!

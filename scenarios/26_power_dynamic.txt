@@ -8,5 +8,5 @@ B: Oh?
 A: I'm not sure why you constantly remind the client developers of the deadline we're missing. It just seems to annoy them.
 B: Well, I have a strategic master plan, bwa ha ha
 A: I just wish that you could explain more to me and the team so that we're not uncomfortable and uninformed.
-B: Fair enough. I'll try, but sometimes it takes a lot of explaining.
-A: Please try.
+B: I'll try, but it might take a long time and you might not understand, and you still have to do it.
+A: Please try to explain more. I'm worried about this.

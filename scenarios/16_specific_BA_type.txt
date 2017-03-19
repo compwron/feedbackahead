@@ -1,5 +1,5 @@
 Context:
-A specific scenario with confusing strong feedback.
+A very specific scenario with confusing strong feedback.
 
 A: You need to decide what kind of BA you're going to be.
 B: I'm sorry?

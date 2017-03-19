@@ -1,8 +1,6 @@
 notes: give to lateral onboarding?
-notes: record this and post it?
 
 non 1x1 interactions - consulting - "why did this break?"
-
 
 impostor syndrome - like 8 humble?
 

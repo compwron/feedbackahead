@@ -1,0 +1,11 @@
+Context:
+Person A wants feedback but person B does not give it
+
+
+A: Hey, when you have time can you give me some feedback about the last week or two of this project?
+B: Meh
+A: How about tomorrow morning?
+B: No, that won't work.
+A: I can send you an email with some specific questions if that would help
+B: I don't like feedback emails
+A: ...

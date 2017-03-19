@@ -3,7 +3,7 @@ Defensive reaction to feedback
 
 A: So, while we're doing feedback, I was worried by what I heard yesterday at the team meeting
 B: You mean when I told Rachel that the code was bad? You know I didn't mean that
-A: No, I meant when the topic of the enchilada came up
+A: No, I meant when we talked about code coverage
 B: Well, I mean, what else was I supposed to do?
 A: Well-
 B: No but seriously, I'd like to see anyone do better. It was a hard situation. You can't blame me for that.

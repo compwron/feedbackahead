@@ -1,0 +1,13 @@
+This scenario requires 3 people
+
+Context:
+Two people give you conflicting feedback
+
+A: Hey, so you asked for feedback... my feedback is... you really need to talk more. A lot more. You're so quiet, and you have great ideas.
+B: I do? Yasha told me that I need to talk less, though.
+A: Well... that's weird. You really need to talk more.
+
+
+C: Hey, so you asked for feedback... my feedback is... you really need to talk less; you are drowning out your other teammates, and interrupting them... we need to hear other ideas.
+A: Oh wow. I do? Artemis told me that I need to talk more, though.
+C: Well... that's weird. Please don't do that.
